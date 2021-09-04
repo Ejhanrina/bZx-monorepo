@@ -15,7 +15,7 @@
   "dependencies": {
     "@bzxnetwork/bzx.js": "0.5.1",
     "bignumber.js": "^7.0.1",
-    "forever-monitor": "^1.7.1",
+    "forever-monitor": "^2.0.0",
     "minimist": "^1.2.0",
     "moment": "^2.22.1",
     "truffle-hdwallet-provider": "^1.0.12",
