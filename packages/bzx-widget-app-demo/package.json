@@ -6,7 +6,7 @@
     "@bzxnetwork/bzx-widget-provider-augur": "^0.1.0",
     "@bzxnetwork/bzx-widget-provider-dummy": "^0.1.0",
     "@bzxnetwork/bzx-widget-react": "^0.1.0",
-    "antd": "^3.10.4",
+    "antd": "^4.0.0",
     "prop-types": "^15.6.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
