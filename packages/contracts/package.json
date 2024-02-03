@@ -23,7 +23,7 @@
     "cpy-cli": "^2.0.0",
     "ethereumjs-wallet": "0.6.0",
     "ethers": "^4.0.7",
-    "ganache-cli": "^6.4.1",
+    "ganache-cli": "^6.12.2",
     "lodash": "^4.17.5",
     "solc_0.5.3": "npm:solc@0.5.3",
     "solc_0.5.8": "npm:solc@0.5.8",
