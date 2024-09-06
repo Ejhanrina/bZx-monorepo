@@ -17,10 +17,10 @@
   "main": "dist/bzx-widget-react.js",
   "dependencies": {
     "@bzxnetwork/bzx-widget-common": "^0.1.0",
-    "antd": "^3.10.4",
+    "antd": "^5.0.0",
     "prop-types": "^15.6.2",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-scrollbars-custom": "^3.1.5"
   },
   "devDependencies": {
