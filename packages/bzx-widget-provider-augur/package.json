@@ -18,7 +18,7 @@
   "dependencies": {
     "@bzxnetwork/bzx.js": "0.4.8",
     "@bzxnetwork/bzx-widget-common": "^0.1.0",
-    "augur.js": "^6.0.0",
+    "augur.js": "^6.7.0",
     "bignumber.js": "^7.0.1",
     "events": "^3.0.0",
     "moment": "^2.22.1",
