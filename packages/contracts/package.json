@@ -14,7 +14,7 @@
     "url": "https://github.com/bZxNetwork/bZx-monorepo/issues"
   },
   "dependencies": {
-    "0x.js": "0.38.6",
+    "0x.js": "1.0.1",
     "@0xproject/order-utils": "1.0.1-rc.6",
     "@0xproject/types": "^0.2.3",
     "@bzxnetwork/bzx.js": "0.5.1",
@@ -27,7 +27,7 @@
     "lodash": "^4.17.5",
     "solc_0.5.3": "npm:solc@0.5.3",
     "solc_0.5.8": "npm:solc@0.5.8",
-    "truffle": "5.0.4",
+    "truffle": "5.0.20",
     "truffle-privatekey-provider": "https://github.com/bZxNetwork/truffle-privatekey-provider",
     "web3-utils": "1.0.0-beta.34"
   },
